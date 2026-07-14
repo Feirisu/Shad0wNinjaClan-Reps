@@ -27,4 +27,4 @@ jobs:
 
       - run: pip install openpyxl
 
-      - run: python clan_snapshot.py --once
+      - run: python clan_snapshot.py
